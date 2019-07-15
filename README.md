@@ -1,7 +1,7 @@
 # FKnife
 要交一个java的课设，于是模仿Behinder(https://github.com/rebeyond/Behinder) 做了一个动态二进制加密的webshell管理器。
 
-代码主要参考了菜刀的源码(https://github.com/Chora10/Cknife)
+代码主要参考了菜刀的源码(https://github.com/Chora10/Cknife),所以起名叫FKnife(水果刀的意思)
 
 因为不知道java怎么写没有iv向量的AES-128-CBC加密，所以把Behinder的一句话改成了AES-128-ECB加密
 
